@@ -22,9 +22,9 @@
 
 <div align="center">
 
-  <a href="https://github.com/matheusberg">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheusberg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusberg&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/MatheusBerg">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=MatheusBerg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBerg&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
