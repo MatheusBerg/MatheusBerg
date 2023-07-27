@@ -1,6 +1,5 @@
 # Hi there, I'm Matheus Berg <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">
 🌱 I’m currently learning Web Development!
-</br>👨‍🚀 Currently coursing explorer <a href="https://github.com/Rocketseat" target="_blank">@rocketseat</a>
 </br>👯 I’m looking to collaborate with other developers in community
 </br>🦜 English level: Advanced (C1)/CAE
 </br>📔 I usually take notes on <a href="https://notion.so/" target="_blank">notion</a>
