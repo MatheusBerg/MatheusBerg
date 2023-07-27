@@ -25,4 +25,4 @@
   <img height="180em" src="https://github-readme-stats-matheusberg.vercel.app/api/top-langs/?username=MatheusBerg&hide=HTML&langs_count=8&layout=compact&theme=dracula&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />  
 </div>
 
-  ![Snake animation](https://github.com/MatheusBerg/MatheusBerg/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MatheusBerg/MatheusBerg/blob/output/github-contribution-grid-snake.gif)
