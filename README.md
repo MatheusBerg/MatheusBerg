@@ -5,8 +5,8 @@
 </br>📔 I usually take notes on <a href="https://notion.so/" target="_blank">notion</a>
 </br>🎵 All kinds of Metal🤘
 
-### 💬 Connect with me:
-<a href="https://www.linkedin.com/in/matheus-berg-847b55161/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+### 💬 Connect with me: 
+<a href="https://www.linkedin.com/in/matheus-berg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://discordapp.com/users/185519828772192256" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 ## 🛠 &nbsp;Languages and Tools
